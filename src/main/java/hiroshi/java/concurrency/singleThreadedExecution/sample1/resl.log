@@ -1,0 +1,54 @@
+> Task :Main.main()
+Testing Gate, hit CTRL+C to exitl
+Alice BEGIN
+Chris BEGIN
+Bobby BEGIN
+*********** BORKEN *********Gate{counter=216506132, name='Bobby', address='Brazil'} ===> even debug info can have concurrency issue
+*********** BORKEN *********Gate{counter=216506449, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216506789, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216507137, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216507456, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216508812, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216509123, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216509419, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216509745, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216510057, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216510385, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216510661, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216510967, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216511264, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216511588, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216511905, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216512205, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216512685, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216512981, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216513323, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216513674, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216513989, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216514291, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216514623, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216515163, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216515491, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216515817, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216516167, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216516485, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216516793, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216517111, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216517448, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216517761, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216518051, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216518354, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216518679, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216518990, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216519295, name='Alice', address='Alaska'}
+*********** BORKEN *********Gate{counter=216243539, name='Bobby', address='Brazil'}
+*********** BORKEN *********Gate{counter=216530658, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216532146, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216532957, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216535180, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216537391, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216538542, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216546392, name='Chris', address='Canada'}
+*********** BORKEN *********Gate{counter=216547082, name='Chris', address='Brazil'} ===> broken
+*********** BORKEN *********Gate{counter=216559069, name='Chris', address='Canada'}
+.......

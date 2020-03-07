@@ -1,4 +1,4 @@
-package hiroshi.java.concurrency.introduction.printer;
+package hiroshi.java.concurrency.introduction.printerRunnable;
 
 public class Printer implements Runnable {
     private String message;

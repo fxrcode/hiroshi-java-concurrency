@@ -1,4 +1,4 @@
-package hiroshi.java.concurrency.introduction.printer;
+package hiroshi.java.concurrency.introduction.printerRunnable;
 
 /**
  * I1-6: start thread class by extending Thread class
